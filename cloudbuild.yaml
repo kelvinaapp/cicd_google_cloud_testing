@@ -17,7 +17,7 @@ steps:
       - '--image'
       - 'gcr.io/iykra-437909/fastapi-app'
       - '--region'
-      - 'global'
+      - 'asia-southeast2'
       - '--platform'
       - 'managed'
       - '--allow-unauthenticated'
